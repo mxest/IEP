@@ -8,10 +8,6 @@ https://content.e-me.edu.gr/wp-admin/admin-ajax.php?action=h5p_embed&id=759784
 
 <iframe src="https://content.e-me.edu.gr/wp-admin/admin-ajax.php?action=h5p_embed&id=759784" width="800" height="600" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://content.e-me.edu.gr/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-Github
-https://github.com/mxest/IEP-CALL
-
-https://github.com/mxest/IEP-CALL.git 
 
 Σκοπός/πλαίσιο δημιουργίας του OER:  ΑΦΟΡΜΗΣΗ ΓΙΑ ΤΗ ΔΙΔΑΣΚΑΛΙΑ ΤΗΣ ΔΙΑΧΡΟΝΙΑΣ της ελληνικής γλώσσας: ΕΝΤΟΠΙΖΟΝΤΑΣ ΤΥΠΟΥΣ ΑΟΡΙΣΤΟΥ  β (ΑΡΧΑΙΑ ΕΛΛΗΝΙΚΑ) ΣΤΗ ΝΕΑ ΕΛΛΗΝΙΚΗ ΓΛΩΣΣΑ. 
 Γνωστικό/ά Αντικείμενο/α: ΕΛΛΗΝΙΚΗ γλώσσα (ΔΙΑΧΡΟΝΙΑ ΤΗΣ ΕΛΛΗΝΙΚΗΣ ΓΛΩΣΣΑΣ) διεπιστημονική προσέγγιση
@@ -40,8 +36,6 @@ https://content.e-me.edu.gr/wp-admin/admin-ajax.php?action=h5p_embed&id=707939
   
 <iframe src="https://content.e-me.edu.gr/wp-admin/admin-ajax.php?action=h5p_embed&id=707939" width="800" height="600" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://content.e-me.edu.gr/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
- στο github
-https://github.com/mxest/IEP-CALL 
 
 Σκοπός/πλαίσιο δημιουργίας του OER:  Η κατανόηση του συγγραφικού φιλοσοφικού στοχασμού του δημιουργού και  της τεχνικής απόδοσης νοημάτων με τη λογοτεχνική περιγραφή.
 Γνωστικό/ά Αντικείμενο/α:  ΛΟΓΟΤΕΧΝΙΑ- ΦΙΛΟΣΟΦΙΑ
@@ -69,8 +63,6 @@ https://content.e-me.edu.gr/wp-admin/admin-ajax.php?action=h5p_embed&id=710293
 
 <iframe src="https://content.e-me.edu.gr/wp-admin/admin-ajax.php?action=h5p_embed&id=710293" width="800" height="600" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://content.e-me.edu.gr/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-Github:
-https://github.com/mxest/IEP-CALL 
 
 
 Σκοπός/πλαίσιο δημιουργίας του OER Να είναι σε θέση οι μαθητές και μαθήτριες να εντοπίζουν εκφραστικά μέσα σε λογοτεχνικό κείμενο.
@@ -99,9 +91,6 @@ OER 4
 https://www.artsteps.com/view/60a5753539d12092a229e17b
 
 <iframe width="560" height="315" src="https://www.artsteps.com/embed/60a5753539d12092a229e17b/560/315" frameborder="0" allowfullscreen></iframe>
-
-Github:
-https://github.com/mxest/IEP-CALL 
 
 
 Σκοπός/πλαίσιο δημιουργίας του OER Να είναι σε θέση οι μαθητές και μαθήτριες να προσεγγίζουν το  λογοτεχνικό κείμενο με την αξιοποίηση εξωκειμενικών, περικειμενικών, διακαλλιτεχνικών δραστηριοτήτων και τεχνικών δημιουργικής γραφής.
